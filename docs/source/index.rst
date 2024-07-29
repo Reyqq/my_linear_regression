@@ -1,0 +1,13 @@
+.. my_linear_regression documentation master file, created by
+   sphinx-quickstart on Thu Jul 29 2021.
+
+Welcome to my_linear_regression's documentation!
+================================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   my_line_reg
+
+

@@ -1,0 +1,10 @@
+MyLineReg
+=========
+
+.. automodule:: my_line_reg
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+
